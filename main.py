@@ -96,4 +96,4 @@ while game_active:
             
         changePlayer()
 
-print()
+input()
